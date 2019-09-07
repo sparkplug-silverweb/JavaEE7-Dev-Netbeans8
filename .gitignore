@@ -23,3 +23,8 @@
 hs_err_pid*
 /jsfapp/target/
 /jpaweb/nbproject/private/
+/jpaweb/build/
+/jpaweb/dist/
+/DVDStore/nbproject/private/
+/DVDStore/dist/
+/DVDStore/build/
